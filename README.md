@@ -10,8 +10,6 @@ Final Year B.Tech (CSE - AI & ML) Student passionate about building backend appl
 <a href="https://github.com/chandana2556">GitHub</a> •
 <a href="https://www.linkedin.com/in/mchandana2556">LinkedIn</a> •
 <a href="mailto:madugulachandana2625@gmail.com">Email</a>
-  <a href="mailto:madugulachandana2625@gmail.com">Email</a>
-  <a href="mailto:madugulachandana2625@gmail.com">Email</a>
 </p>
 
 ---
