@@ -54,7 +54,7 @@ Final Year B.Tech (CSE - AI & ML) Student passionate about building backend appl
 
 - 📚 College Management System
 - 📝 Quiz Application
-- 💻 DSA Practice Repository
+- 💻 DSA Practice Repository.
 
 ---
 
